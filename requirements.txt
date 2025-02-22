@@ -3,5 +3,8 @@ pandas
 matplotlib
 seaborn
 statsmodels 
-scikit-learn 
+scikit-learn
+pymc3
+arch
+arviz 
 tensorflow
